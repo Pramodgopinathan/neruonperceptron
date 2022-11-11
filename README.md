@@ -1,6 +1,10 @@
 ![](https://github.com/Pramodgopinathan/neruonperceptron/blob/e6211e65301623c7fe08a65d2276b7a2c93a9f72/DeepLearning-Lab1Part1.png)
 
-## Simple network neron
+## Simple Network Neron
+
+![](https://github.com/Pramodgopinathan/neruonperceptron/blob/e6211e65301623c7fe08a65d2276b7a2c93a9f72/neron1.png)
+
+
 ```python
 # we have two parameter one is to identify y or z which is 
 
