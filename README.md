@@ -1,8 +1,8 @@
 ![](https://github.com/Pramodgopinathan/neruonperceptron/blob/e6211e65301623c7fe08a65d2276b7a2c93a9f72/DeepLearning-Lab1Part1.png)
 
-## Simple Network Neron
+## Simple Network Neruon
 
-![](https://github.com/Pramodgopinathan/neruonperceptron/blob/e6211e65301623c7fe08a65d2276b7a2c93a9f72/neron1.png)
+![](https://github.com/Pramodgopinathan/neruonperceptron/blob/1f31260d67045a96da2417718a7d25e013f3c1c1/neron1.jpg)
 
 
 ```python
