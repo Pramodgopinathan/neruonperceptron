@@ -1,9 +1,8 @@
 ![](https://github.com/Pramodgopinathan/neruonperceptron/blob/e6211e65301623c7fe08a65d2276b7a2c93a9f72/DeepLearning-Lab1Part1.png)
 
-## Simple Network Neruon
+## Simple Neural Network
 
 ![](https://github.com/Pramodgopinathan/neruonperceptron/blob/1f31260d67045a96da2417718a7d25e013f3c1c1/neron1.jpg)
-
 
 ```python
 # we have two parameter one is to identify y or z which is 
@@ -63,3 +62,6 @@ print('The output of a Y is 0.53 and after coverging with sigmoid binary activit
 print('The output of a Y is 0.53 and after coverging with sigmoid bipolar activition function result is:' , sigmoid_bipolar(Y)) 
 
 ```
+# Result 
+
+![](https://github.com/Pramodgopinathan/neruonperceptron/blob/1366350cc2279ce06746df7074aaf8eb6788f6e3/outcome.jpg)
